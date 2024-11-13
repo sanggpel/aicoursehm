@@ -1,0 +1,52 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/626bfa9c-8221-11ef-b9bf-daac7d5d70b1/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+annotated-types==0.6.0
+anyio==4.3.0
+asgiref==3.8.1
+attrs==23.2.0
+beautifulsoup4==4.12.3
+certifi==2024.2.2
+charset-normalizer==3.3.2
+distlib==0.3.8
+distro==1.9.0
+Django==4.2.11
+exceptiongroup==1.2.1
+filelock==3.13.3
+future @ file:///AppleInternal/Library/BuildRoots/626bfa9c-8221-11ef-b9bf-daac7d5d70b1/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+h11==0.14.0
+httpcore==1.0.5
+httpx==0.27.0
+idna==3.7
+inflection==0.5.1
+jsonschema==4.21.1
+jsonschema-specifications==2023.12.1
+macholib @ file:///AppleInternal/Library/BuildRoots/626bfa9c-8221-11ef-b9bf-daac7d5d70b1/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+numpy==1.26.4
+openai==1.24.0
+openapi==1.1.0
+outcome==1.3.0.post0
+pandas==2.2.2
+platformdirs==4.2.0
+pydantic==2.7.1
+pydantic_core==2.18.2
+PySocks==1.7.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+referencing==0.35.0
+requests==2.31.0
+rpds-py==0.18.0
+selenium==4.26.1
+six @ file:///AppleInternal/Library/BuildRoots/626bfa9c-8221-11ef-b9bf-daac7d5d70b1/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sniffio==1.3.1
+sortedcontainers==2.4.0
+soupsieve==2.5
+sqlparse==0.4.4
+tabula-py==2.9.0
+tqdm==4.66.2
+trio==0.27.0
+trio-websocket==0.11.1
+typing_extensions==4.10.0
+tzdata==2024.1
+urllib3==2.2.1
+virtualenv==20.25.1
+websocket-client==1.8.0
+wsproto==1.2.0
