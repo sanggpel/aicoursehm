@@ -1,7 +1,7 @@
 import unittest
 from datetime import datetime
 import time
-from scrape_songs import RadioSongScraper
+from swift_alert import RadioSongScraper
 
 class TestNotifications:
     def __init__(self, target_artist="Taylor Swift", consecutive_count=2):
